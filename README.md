@@ -1,6 +1,6 @@
 # BarberApp
-Aplicativo de Barbearia
-## Com esse app você poderá agendar seus cortes de cabelo e barba de um jeito rápido e fácil, com diferentes barbeiros especializados. Possuímos diferentes serviços como:
+# Aplicativo de Barbearia
+Com esse app você poderá agendar seus cortes de cabelo e barba de um jeito rápido e fácil, com diferentes barbeiros especializados. Possuímos diferentes serviços como:
 <ul>
   <li>
     Corte de cabelo
