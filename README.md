@@ -25,5 +25,6 @@ Com esse app você poderá agendar seus cortes de cabelo e barba de um jeito rá
 
 <h3>Páginas da wiki:</h3>
 
-[Home](https://github.com/leall12/BarberApp/wiki);
-[Protótipo e Descrição](https://github.com/leall12/BarberApp/wiki/Protótipo-e-Descrição);
+[Home](https://github.com/leall12/BarberApp/wiki)
+
+[Protótipo e Descrição](https://github.com/leall12/BarberApp/wiki/Protótipo-e-Descrição)
